@@ -15,3 +15,5 @@ Une vieille horloge oubliée dans le grenier s'anima soudainement à minuit, pro
 ombres dansantes sur les murs poussiéreux. Une petite fille, curieuse, monta les marches 
 grinçantes et découvrit un passage secret derrière l'horloge. En traversant ce passage, elle 
 se retrouva dans un jardin enchanté, où le temps semblait suspendu.
+
+Sous un arbre majestueux, elle aperçut une porte en or incrustée de joyaux, brillant d'une lumière mystérieuse.
