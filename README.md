@@ -10,3 +10,8 @@ les murmures du vent semblent rappeler ***les légendes oubliées.***
 >les historiens du monde entier.
 
 Les routes étaient sinueuses et semées d'embûches. Nul n'osait s'aventurer au delà des murs de la cité. Une légende urbaine circulait au sujet d'un loup au proportion gargantuesque qui rodait dans la forêt.
+
+Une vieille horloge oubliée dans le grenier s'anima soudainement à minuit, projetant des 
+ombres dansantes sur les murs poussiéreux. Une petite fille, curieuse, monta les marches 
+grinçantes et découvrit un passage secret derrière l'horloge. En traversant ce passage, elle 
+se retrouva dans un jardin enchanté, où le temps semblait suspendu.
